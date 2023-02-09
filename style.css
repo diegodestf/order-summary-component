@@ -108,6 +108,7 @@ button {
 
 .card__picture {
   height: 175px;
+  cursor: pointer;
 }
 
 .card {
