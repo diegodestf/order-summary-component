@@ -88,6 +88,8 @@ h6 {
 body {
   font-family: var(--ff-redhat);
   background-image: url('./images/pattern-background-mobile.svg');
+  background-repeat: no-repeat;
+  background-color: var(--pale-blue);
   font-weight: var(--fw-normal);
   display: grid;
   place-content: center;
